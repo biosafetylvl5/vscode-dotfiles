@@ -1,1 +1,1 @@
-cp -f ~/dotfiles/* ~/
+cp -f ~/dotfiles/.bash* ~/
